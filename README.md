@@ -2,9 +2,7 @@ Here's a README for your GitHub repository with the provided information:
 
 ---
 
-# Panchkosh Wellbeing Web App
-
-Welcome to the Panchkosh Wellbeing web app, a joint initiative between IIT Jodhpur and HDFC Ergo aimed at promoting holistic health and wellbeing. This project integrates various technologies to create a comprehensive platform for managing wellbeing events.
+# Event management Web App
 
 ## Tech Stack
 
