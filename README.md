@@ -22,6 +22,7 @@ Here's a README for your GitHub repository with the provided information:
 
 Ensure you have the following installed on your computer:
 
+- Git
 - Python
 - VS Code
 - PostgreSQL
