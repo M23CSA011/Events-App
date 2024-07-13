@@ -39,14 +39,14 @@ Ensure you have the following installed on your computer:
    Create a `.env` file in the root directory of the project with the following information:
 
    ```env
-   DATABASE_HOSTNAME=localhost
-   DATABASE_PORT=5432
-   DATABASE_PASSWORD=password123
-   DATABASE_NAME=panchkosh
-   DATABASE_USERNAME=postgres
-   SECRET_KEY=ceba234d3ea4367dffabb9a65601c61163147f85b05e750074d0ce4b4d314c25
-   ALGORITHM=HS256
-   ACCESS_TOKEN_EXPIRE_MINUTES=60
+   DATABASE_HOSTNAME=
+   DATABASE_PORT= 
+   DATABASE_PASSWORD= 
+   DATABASE_NAME=
+   DATABASE_USERNAME= 
+   SECRET_KEY= 
+   ALGORITHM=
+   ACCESS_TOKEN_EXPIRE_MINUTES=
    ```
 
 3. **Install Dependencies:**
@@ -79,7 +79,7 @@ The application will start running on your localhost.
 
 ## Demo Video
 
-Check out the demo video showcasing the main features of the app:[ [Include the link to the video here]](https://drive.google.com/file/d/1EjxmUkbPkgHNOMwHWQAftekcT9_xVQgp/view?usp=sharing)
+Check out the demo video showcasing the main features of the app:[ [video]](https://drive.google.com/file/d/1EjxmUkbPkgHNOMwHWQAftekcT9_xVQgp/view?usp=sharing)
 
 ## Feedback and Contributions
 
