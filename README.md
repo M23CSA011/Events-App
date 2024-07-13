@@ -1,7 +1,3 @@
-Here's a README for your GitHub repository with the provided information:
-
----
-
 # Event management Web App
 
 ## Tech Stack
@@ -83,8 +79,3 @@ Check out the demo video showcasing the main features of the app:[ [video]](http
 ## Feedback and Contributions
 
 Your feedback is valuable! Please feel free to open issues or pull requests if you have suggestions or improvements.
-
----
-
-By following these instructions, you should be able to set up and run the Panchkosh Wellbeing web app on your local machine.
-
